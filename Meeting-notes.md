@@ -9,3 +9,6 @@
 - MJPEP bacically it takes screenshorts.
 - H264(webRTC) it record video
 - Mr. Hackey has ASMA who applys for jobs ,Its an AI.
+- Click RDP(Remote desktope Connection)
+- Press on connect.
+- Than Yes and open Mr. Hackney computer.
