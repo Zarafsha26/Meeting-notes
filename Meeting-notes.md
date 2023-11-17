@@ -1,6 +1,5 @@
 
 - I had a meeting with Mr. Hackney , and he transfer my team from Thunder to Prime in which i work alongside with Mr. Hackney more or less like an assistance.
-- 
 - I had been introduced to KVM & RDP.
 - KVM stand for Keyboard Video Mouse.
 - 1st and formost rule never touch anything when you log into Mr. H ackney computer.
