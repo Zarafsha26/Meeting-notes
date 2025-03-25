@@ -5,7 +5,6 @@
 - 1st and formost rule never touch anything when you log into Mr. H ackney computer.
 - If you are going to have a meeting with U.S client hop on call through KVM in Mr. Hackney computer.
 - Click on KVM.
-
 - Go to mute click off than you can use computer.
 - There are 2 option shown to you.
 - MJPEP bacically it takes screenshorts.
